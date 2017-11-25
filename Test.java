@@ -1,4 +1,6 @@
-public void Test{
-
+public class Test{
+ public void add(){
+  
+ }
 
 }
